@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='blue'> KALAGALA RAMAKRISHNA</font></h1>
+<h1><font color='blue'> Kalagala Ramakrishna</font></h1>
 <h1><font color='green'> I studied Electrical Engineering in Sri Prakash college of engineering </font></h1>
 <h2><font color='black'> I am currently works as DevOps Engineer </font></h2>
 <h2><font color='black'> I am having knowledge on following: </font></h2>
