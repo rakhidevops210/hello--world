@@ -1,37 +1,23 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
-     
-    <label for="RAMAKRISHNA"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
-    <br>
-    
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
-    <br>
+<html>
+<body>
+<h1><font color='blue'> KALAGALA RAMAKRISHNA</font></h1>
+<h1><font color='green'> I studied Electrical Engineering in Sri Prakash college of engineering </font></h1>
+<h2><font color='black'> I am currently works as DevOps Engineer </font></h2>
+<h2><font color='black'> I am having knowledge on following: </font></h2>
+<h3><font color='black'> Basic OS - Windows, Linux and Shell Script </font></h3>
+<h3><font color='black'> Scripting Language - Shell Script </font></h3>
+<h3><font color='black'> Programming Language - Python </font></h3>
+<h3><font color='black'> Cloud Platform - Amazon Web Services </font></h3>
+<h3><font color='black'> DevOps Tools - Git,Github,Maven,Tomcat,SonarQube,Nexus,Jenkins,Ansible,Docker,Kuberneets,Basics of Terraform </font></h3>
 
-    <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
+<h2>I was worked as electrical engineer in L&T electricals </h2>
+<link href="" rel="icon">
+<span>
+    <img src="images/ramakrishna.jpg" alt="" width="100"
+</span>
 
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-    <br>
-
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <hr>
-    <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-
-   <h1> Thankyou, Happy Learning </h1>
-
+  <h2> Call me : +91 - 97 00 09 44 03 </h2>
   
-</form>
+</body>
+</html>
+
