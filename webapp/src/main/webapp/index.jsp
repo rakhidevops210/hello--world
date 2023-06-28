@@ -13,10 +13,11 @@
 <h2>I was worked as electrical engineer in L&T electricals </h2>
 <link href="" rel="icon">
 <span>
-    <img src="images/ramakrishna.jpg" alt="" width="100"
+    <img src="C:\Users\admin\OneDrive\Pictures\images" alt="" width="100"
 </span>
 
-  <h2> Call me : +91 - 97 00 09 44 03 </h2>
+  <h2> Call me : +91 - 9700094403 </h2>
+  <h2> Email : rakhidevops1995@gmail.com </h2>
   
 </body>
 </html>
